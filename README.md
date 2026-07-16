@@ -1,93 +1,119 @@
 <h1 align="center">Hi 👋, I'm Manish Pandey</h1>
 
 <h3 align="center">
-Computer Engineering Student | Full Stack Developer | AI & Data Science Enthusiast
+🚀 Computer Engineering Student | Full Stack Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Flutter+Developer;React+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+Developer;React+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Engineering Student
-- 💻 Passionate about Full Stack Development, AI & Data Science
-- 🌱 Currently learning React, Flutter, Machine Learning & Generative AI
-- 🚀 Love building real-world applications
-- 📚 Always learning new technologies
-- 🤝 Open to internships and collaborations
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/manish-pandey-54a4b6332/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://github.com/Manish09753" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,flutter,dart,firebase,mysql,oracle,git,github,vscode,html,css,javascript" />
+<a href="https://www.linkedin.com/in/manish-pandey-54a4b6332/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Manish09753">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 💫 About Me
 
-### 🌱 AgroPilot
+🎓 B.E. Computer Engineering Student
+
+💻 Passionate about Full Stack Development
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+📱 Flutter Developer
+
+🌐 React & Node.js Developer
+
+🗄 Oracle SQL & Database Enthusiast
+
+🚀 Building Real World Applications
+
+📚 Learning Something New Every Day
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,dart,flutter,react,nodejs,firebase,mysql,git,github,vscode,html,css,javascript"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 AgroPilot
+
 Smart Farming Application with crop recommendation, weather insights and farm management.
 
-### 💼 JobMentor
-AI-powered career guidance platform with technical quizzes and interview preparation.
+---
 
-### 🤖 Placement Prediction
-Machine Learning project using XGBoost to predict placement probability.
+## 💼 JobMentor
+
+AI-powered Career Guidance Platform with interview preparation and technical quizzes.
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 Placement Prediction
+
+Machine Learning project using XGBoost for predicting placement probability.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manish09753&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manish09753&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish09753&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish09753&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Manish09753&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Manish09753&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manish09753&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Manish09753&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish09753&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
 
 <p align="center">
 
@@ -97,6 +123,31 @@ Machine Learning project using XGBoost to predict placement probability.
 
 ---
 
-## ✨ Quote
+# 💻 Currently Learning
 
-> *"Code. Learn. Build. Repeat."* 🚀
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- React
+- Flutter
+- Advanced SQL
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **your-email@example.com**
+
+🔗 LinkedIn:
+**https://www.linkedin.com/in/manish-pandey-54a4b6332/**
+
+🌐 GitHub:
+**https://github.com/Manish09753**
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
