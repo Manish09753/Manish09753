@@ -136,7 +136,7 @@ Machine Learning project using XGBoost for predicting placement probability.
 
 # 📫 Connect With Me
 
-📧 Email: **your-email@example.com**
+📧 Email: **mp702822@example.com**
 
 🔗 LinkedIn:
 **https://www.linkedin.com/in/manish-pandey-54a4b6332/**
